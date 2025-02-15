@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.MaterialComponents.Button.TextButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/purple_500</item> <!-- Цвет кнопки -->
+
+    </style>
+</resources>
